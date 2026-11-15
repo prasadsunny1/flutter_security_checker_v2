@@ -1,3 +1,5 @@
+> **Fork notice:** `flutter_security_checker_v2` is a fork of [Dev-hwang/flutter_security_checker](https://github.com/Dev-hwang/flutter_security_checker) (MIT) that adds Swift Package Manager support for iOS. The Dart API is unchanged: replace the dependency and import `package:flutter_security_checker_v2/flutter_security_checker.dart`.
+
 This plugin provides the ability to verify rooting and integrity on Android and iOS platforms.
 
 [![pub package](https://img.shields.io/pub/v/flutter_security_checker.svg)](https://pub.dev/packages/flutter_security_checker)

@@ -6,6 +6,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#include <unistd.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/stat.h>
 #import "JailBreakChecker.h"
 
 @implementation JailBreakChecker

@@ -1,4 +1,8 @@
-#import "FlutterSecurityCheckerPlugin.h"
+#if __has_include(<flutter_security_checker_v2/FlutterSecurityCheckerPlugin.h>)
+#import <flutter_security_checker_v2/FlutterSecurityCheckerPlugin.h>
+#else
+#import "include/flutter_security_checker_v2/FlutterSecurityCheckerPlugin.h"
+#endif
 #import "security/JailBreakChecker.h"
 #import "security/IntegrityChecker.h"
 
