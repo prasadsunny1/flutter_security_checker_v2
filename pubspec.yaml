@@ -1,7 +1,9 @@
 name: flutter_security_checker_v2
 description: Fork of flutter_security_checker with Swift Package Manager support. This plugin provides the ability to verify rooting and integrity on Android and iOS platforms.
 version: 3.3.0
-homepage: https://github.com/Dev-hwang/flutter_security_checker
+homepage: https://github.com/prasadsunny1/flutter_security_checker_v2
+repository: https://github.com/prasadsunny1/flutter_security_checker_v2
+issue_tracker: https://github.com/prasadsunny1/flutter_security_checker_v2/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
